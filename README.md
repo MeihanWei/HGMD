@@ -6,6 +6,8 @@ Administrator: Meihan Wei (mw2243@cornell.edu)
 Raw data from HGMD (Jan 2025)
 hg38: 2025_1_hg38_fullinfo.vcf
 
+Processed based on wiki file from Yingying
+
 ## Summary statistics after pre-processing
 ### Missense mutations (261500): 
 Mapped to UniProt: 261346 
